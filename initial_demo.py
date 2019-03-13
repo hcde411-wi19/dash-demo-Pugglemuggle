@@ -7,6 +7,7 @@ import dash_html_components as html
 weekday_in_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
 counts_in_order = [160613, 154225, 155175, 150819, 146014, 215725, 203483]
 
+
 # initialize Dash environment
 
 app = dash.Dash(__name__)
